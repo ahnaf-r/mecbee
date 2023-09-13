@@ -14,6 +14,10 @@ Binned Normal Distributions
 -------------
 ProbDis.py
 
+Excel processing
+-------------
+Analysis.xlsx
+
 Moving Average Filter
 =============
 MAvg_Filter.py
